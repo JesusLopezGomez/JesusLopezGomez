@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://JesusLopezGomez.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+profile+%F0%9F%98%8E%F0%9F%91%8B" alt="Typing SVG" /></a></p>
 <h3 align="center">Web application development student</h3>
 
