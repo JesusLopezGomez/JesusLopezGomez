@@ -17,7 +17,7 @@
 <a href="https://github.com/JesusLopezGomez" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/jes%C3%BAs-l%C3%B3pez-g%C3%B3mez-4aa555277/" target="_blank">
+<a href="https://www.linkedin.com/in/jes%C3%BAs-l%C3%B3pez-g%C3%B3mez-4aa555277" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
