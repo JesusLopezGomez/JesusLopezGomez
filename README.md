@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+profile+%F0%9F%98%8E%F0%9F%91%8B" alt="Typing SVG" /></a></p>
-<h3 align="center">Web application development student</h3>
+<h3 align="center">Web application fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesuslopezgomez&label=Profile%20views&color=0e75b6&style=flat" alt="jesuslopezgomez" /> </p>
 
